@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tapasdash017@gmail.com**
 
-- ⚡ Fun fact **I love to make cringe jokes and then lugh on it**
+- ⚡ Fun fact **I love to laugh on my own cringy jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
