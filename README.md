@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapas Dash</h1>
-<h3 align="center">A passionate MERN stack developer from India who is currently residing in Delhi-NCR. I love to create apps and love to learn new stuff</h3>
+<h3 align="center">A passionate MERN stack developer from India who is currently residing in Delhi-NCR. I love to create web apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapasdash&label=Profile%20views&color=0e75b6&style=flat" alt="tapasdash" /> </p>
 
@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **tapasdash017@gmail.com**
 
-- ⚡ Fun fact **I love to laugh on my own cringy jokes**
+- 📄 Know about my experiences [https://resume.io/r/DndodUI3E](https://resume.io/r/DndodUI3E)
+
+- ⚡ Fun fact **I love to make cringe jokes and then lugh on it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
