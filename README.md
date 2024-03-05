@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tapasdash017" target="blank"><img src="https://img.shields.io/twitter/follow/tapasdash017?logo=twitter&style=for-the-badge" alt="tapasdash017" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Fronetend**
 
 - 💬 Ask me about **node.js mongodb express**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/DndodUI3E](https://resume.io/r/DndodUI3E)
 
-- ⚡ Fun fact **I love to make cringe jokes and then lugh on it**
+- ⚡ Fun fact **I love to make cringe jokes and then laugh on it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
