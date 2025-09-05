@@ -9,7 +9,7 @@ I build the robust, scalable backend systems that power high-growth startups in 
 - 🔭 **My Core Focus:** Architecting and building business-critical applications, especially for FinTech, HR-Tech, and AI-driven platforms.
 - 🛠️ **My Toolkit:** `Node.js`, `TypeScript`, `PostgreSQL`, `MongoDB`, `AWS`, `Next.js`, `API Design & Security`.
 - 🤝 **Let's Connect:** I'm most active on [**LinkedIn**](https://www.linkedin.com/in/tapas-dash-41374a138/).
-- 📫 **How to reach me:** [**tapasdash017@gmail.com**](mailto:tapasdash017@gmail.com)
+- [cite_start]📫 **How to reach me:** [**tapasdash017@gmail.com**](mailto:tapasdash017@gmail.com) [cite: 13]
 - ⚡ **Fun Fact:** I believe the most elegant code is the one that solves the most expensive business problem.
 
 ---
@@ -21,4 +21,5 @@ I build the robust, scalable backend systems that power high-growth startups in 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapasdash&show_icons=true&locale=en&layout=compact" alt="tapasdash" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapasdash
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapasdash&" alt="tapasdash" />
+</p>
