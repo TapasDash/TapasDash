@@ -2,7 +2,7 @@
 
 ### Backend Architect & Revenue-Focused Technologist
 
-I build the robust, scalable backend systems that power high-growth startups in FinTech and B2B SaaS. My focus is writing clean, effective code that translates directly to business results—whether that's a faster API, a more secure payment gateway, or a more stable platform.
+I build the robust, scalable backend systems that power high-growth startups in FinTech and B2B SaaS. My focus is writing clean, effective code that translates directly to business results, whether that's a faster API, a more secure payment gateway, or a more stable platform.
 
 ---
 
